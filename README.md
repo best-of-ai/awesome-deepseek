@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alternbits-awesome-ai-agents-directories-badge.png)](https://mseep.ai/app/alternbits-awesome-ai-agents-directories)
+
 # Awesome AI Agent Directories
 
 A comprehensive  list of the best AI agent directories available online. This curated collection includes websites and GitHub repositories that feature top AI agents, frameworks, and tools. Whether you're a developer, researcher, or entrepreneur, this list helps you discover, evaluate, and integrate the most powerful AI agents and platforms in the ecosystem.
